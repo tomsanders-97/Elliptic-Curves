@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\bin\Debug\netcoreapp3.0\EllipticProgrammes.exe
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\bin\Debug\netcoreapp3.0\EllipticProgrammes.deps.json
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\bin\Debug\netcoreapp3.0\EllipticProgrammes.runtimeconfig.json
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\bin\Debug\netcoreapp3.0\EllipticProgrammes.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\bin\Debug\netcoreapp3.0\EllipticProgrammes.dll
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\bin\Debug\netcoreapp3.0\EllipticProgrammes.pdb
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\obj\Debug\netcoreapp3.0\EllipticProgrammes.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\obj\Debug\netcoreapp3.0\EllipticProgrammes.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\obj\Debug\netcoreapp3.0\EllipticProgrammes.AssemblyInfo.cs
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\obj\Debug\netcoreapp3.0\EllipticProgrammes.dll
+C:\Users\Tom\source\repos\EllipticProgrammes\EllipticProgrammes\obj\Debug\netcoreapp3.0\EllipticProgrammes.pdb
